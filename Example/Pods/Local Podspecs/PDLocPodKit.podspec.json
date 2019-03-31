@@ -1,8 +1,8 @@
 {
   "name": "PDLocPodKit",
-  "version": "0.1.0",
-  "summary": "A short description of PDLocPodKit.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "1.1.0",
+  "summary": "this is test demo",
+  "description": "TODO: this is a test demo,test demo only.",
   "homepage": "https://github.com/pdcodeunder/PDLocPodKit",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/pdcodeunder/PDLocPodKit.git",
-    "tag": "0.1.0"
+    "tag": "1.1.0"
   },
   "platforms": {
     "ios": "8.0"
