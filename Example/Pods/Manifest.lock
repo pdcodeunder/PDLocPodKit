@@ -1,0 +1,16 @@
+PODS:
+  - PDLocPodKit (0.1.0)
+
+DEPENDENCIES:
+  - PDLocPodKit (from `../`)
+
+EXTERNAL SOURCES:
+  PDLocPodKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PDLocPodKit: 056e60d738d503532243a41e493b6314b8f2b794
+
+PODFILE CHECKSUM: c614e63613c9f216a3b50fb2cfe152f770bfa17b
+
+COCOAPODS: 1.6.1

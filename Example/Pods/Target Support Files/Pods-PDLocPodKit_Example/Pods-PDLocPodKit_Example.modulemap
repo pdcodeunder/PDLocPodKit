@@ -1,0 +1,6 @@
+framework module Pods_PDLocPodKit_Example {
+  umbrella header "Pods-PDLocPodKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

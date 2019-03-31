@@ -7,6 +7,7 @@
 //
 
 #import "PDViewController.h"
+#import "PDTestView.h"
 
 @interface PDViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    PDTestView *view = [[PDTestView alloc] initWithFrame:CGRectMake(0, 100, 200, 200)];
+    [self.view addSubview:view];
 }
 
 - (void)didReceiveMemoryWarning

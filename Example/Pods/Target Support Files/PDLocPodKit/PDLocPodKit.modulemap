@@ -1,0 +1,6 @@
+framework module PDLocPodKit {
+  umbrella header "PDLocPodKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
